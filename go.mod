@@ -1,4 +1,4 @@
-module github.com/open-telemetry/oteps/text/metrics/0149
+module github.com/jmacd/otlp-expo-histo
 
 go 1.16
 

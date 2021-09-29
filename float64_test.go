@@ -17,7 +17,7 @@ package histogram_test
 import (
 	"testing"
 
-	histogram "github.com/open-telemetry/oteps/text/metrics/0149"
+	histogram "github.com/jmacd/otlp-expo-histo"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -19,7 +19,7 @@ import (
 	"math/rand"
 	"testing"
 
-	histogram "github.com/open-telemetry/oteps/text/metrics/0149"
+	histogram "github.com/jmacd/otlp-expo-histo"
 )
 
 func benchmarkHistogram(b *testing.B, name string, mapper histogram.Base2HistogramMapper, scale int) {

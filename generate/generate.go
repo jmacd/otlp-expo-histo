@@ -27,7 +27,7 @@ import (
 	"syscall"
 	"time"
 
-	histogram "github.com/open-telemetry/oteps/text/metrics/0149"
+	histogram "github.com/jmacd/otlp-expo-histo"
 )
 
 var startTime = time.Now()
